@@ -17,7 +17,7 @@ M.S. Data Science (University of Central Oklahoma). Before grad school I spent t
 
 ## Stack
 
-Python · SQL · FastAPI · OpenAI Agents SDK · Gradio · React/TypeScript · Slurm/HPC
+Python · SQL · PySpark · AWS Redshift · GCP BigQuery · FastAPI · OpenAI Agents SDK · Gradio · React/TypeScript · Slurm/HPC
 
 ## Contact
 
